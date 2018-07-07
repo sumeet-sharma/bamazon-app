@@ -1,1 +1,1 @@
-# bamazon-app
+# Bamazon
